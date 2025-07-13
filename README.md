@@ -1,7 +1,7 @@
 ### Hi there! <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif" width="25"/>
 I’m Ananth, a software engineer based in Toronto.
 
-- 🔭 I’m currently working on a ** Fast Finite Field Library in Rust**
+- 🔭 I’m currently working on a Fast Finite Field Library in Rust
 
 - 🌱 I’m currently learning **Rust, computer networking and functional programming**
 
